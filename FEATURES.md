@@ -87,3 +87,23 @@ Game frontends do not include proprietary game data; add only games or files you
 ## Blender included in every setup
 
 Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
+
+## Fifteen additional purpose-specific applications
+
+The setup adds these Flathub applications for Rust development. Applications are fetched from Flathub by the setup script; each app keeps its own licensing and terms.
+
+1. **Podman Desktop** (io.podman_desktop.PodmanDesktop) — Manage local containers and inspect development environments.
+2. **KDevelop** (org.kde.kdevelop) — Navigate and build C++, Python, and other software projects.
+3. **Gitg** (org.gnome.gitg) — Inspect Git history and stage project changes.
+4. **KDiff3** (org.kde.kdiff3) — Review file and directory differences with three-way merge support.
+5. **Umbrello UML Modeller** (org.kde.umbrello) — Create UML diagrams to plan software architecture.
+6. **Rocs** (org.kde.rocs) — Explore graph algorithms and data structures visually.
+7. **Kst** (org.kde.kst) — Display and inspect scientific measurement and time-series data.
+8. **LabPlot** (org.kde.labplot) — Plot and analyze data imported from spreadsheets or research files.
+9. **DBeaver Community** (io.dbeaver.DBeaverCommunity) — Explore and query supported SQL databases.
+10. **QGIS** (org.qgis.qgis) — Create and analyze geographic information system projects.
+11. **GNOME Maps** (org.gnome.Maps) — Look up places and routes using online map data.
+12. **Marble** (org.kde.marble) — Explore maps and a virtual globe for route and place context.
+13. **KGeography** (org.kde.kgeography) — Practice place and map recognition.
+14. **KGeoTag** (org.kde.kgeotag) — Review and edit photo location metadata.
+15. **Stellarium** (org.stellarium.Stellarium) — Plan astronomy sessions with a desktop planetarium.
